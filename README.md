@@ -1,4 +1,4 @@
-# 🚀 ShipFlow
+# 🚀 Shipix
 
 > High-performance webhook ingestion engine for multi-carrier shipment tracking  
 > Built with strict domain modeling, exhaustive pattern matching, and zero-dependency core logic.
