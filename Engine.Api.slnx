@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Engine.Api/Engine.Api.csproj" />
+  <Project Path="Engine.Contracts/Engine.Contracts.csproj" />
+  <Project Path="Engine.Core/Engine.Core.csproj" />
+  <Project Path="Engine.Tests/Engine.Tests.csproj" />
+</Solution>
